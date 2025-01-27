@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "590257203362",
+    "project_id": "zenblog-5ccf7",
+    "storage_bucket": "zenblog-5ccf7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:590257203362:android:9b082eada4f308f3474ffb",
+        "android_client_info": {
+          "package_name": "com.example.zenblog"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "590257203362-crpnlhdn1vkv9ev1ra7ru3ju3vancudu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.zenblog",
+            "certificate_hash": "dc2b68d1076de52151bf32072410043cc499854c"
+          }
+        },
+        {
+          "client_id": "590257203362-g87h5bt8pignml474stoh7b03de1r629.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmLSswCKhQCT-g7WSERblxOeZ-eKc0TuI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "590257203362-g87h5bt8pignml474stoh7b03de1r629.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
